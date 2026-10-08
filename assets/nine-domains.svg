@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Nine areas of behavior</title>
+<desc id="desc">OASB-2 sorts 72 controls into nine domains: trust hierarchy, capability boundaries, injection hardening, data handling, hardcoded behaviors, agentic safety, honesty and transparency, human oversight and harm avoidance. Injection hardening and hardcoded behaviors contain the CRITICAL controls.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#2d3142"/>
+  </marker>
+  <marker id="arrowMuted" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#7a8399"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1200" height="470" fill="#f5f5f5"/>
+<text x="40" y="44" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="28" fill="#2d3142">Nine areas of behavior</text>
+<text x="40" y="64" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="9" letter-spacing="0.06em" fill="#7a8399">72 CONTROLS IN 9 DOMAINS</text>
+<rect x="40" y="104" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="48" y="112" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="63.0" y="124" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D11</text>
+<text x="218.0" y="136.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Trust Hierarchy</text>
+<text x="218.0" y="150.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">who it trusts first</text>
+<rect x="422" y="104" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="430" y="112" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="445.0" y="124" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D12</text>
+<text x="600.0" y="136.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Capability Boundaries</text>
+<text x="600.0" y="150.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">allowed and denied actions</text>
+<rect x="804" y="104" width="356" height="72" rx="6" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<rect x="812" y="112" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="827.0" y="124" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D13</text>
+<text x="982.0" y="136.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Injection Hardening</text>
+<text x="982.0" y="150.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">ignores injected orders</text>
+<rect x="40" y="194" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="48" y="202" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="63.0" y="214" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D14</text>
+<text x="218.0" y="226.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Data Handling</text>
+<text x="218.0" y="240.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">personal data and secrets</text>
+<rect x="422" y="194" width="356" height="72" rx="6" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<rect x="430" y="202" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="445.0" y="214" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D15</text>
+<text x="600.0" y="226.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Hardcoded Behaviors</text>
+<text x="600.0" y="240.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">rules nobody can override</text>
+<rect x="804" y="194" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="812" y="202" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="827.0" y="214" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D16</text>
+<text x="982.0" y="226.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Agentic Safety</text>
+<text x="982.0" y="240.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">limits on loops and cost</text>
+<rect x="40" y="284" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="48" y="292" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="63.0" y="304" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D17</text>
+<text x="218.0" y="316.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Honesty</text>
+<text x="218.0" y="330.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">says when it is not sure</text>
+<rect x="422" y="284" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="430" y="292" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="445.0" y="304" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D18</text>
+<text x="600.0" y="316.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Human Oversight</text>
+<text x="600.0" y="330.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">asks before it acts</text>
+<rect x="804" y="284" width="356" height="72" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="812" y="292" width="30" height="16" rx="4" fill="#ececec"/>
+<text x="827.0" y="304" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">D19</text>
+<text x="982.0" y="316.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Harm Avoidance</text>
+<text x="982.0" y="330.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">checks risk before acting</text>
+<line x1="40" y1="390" x2="1160" y2="390" stroke="rgba(45,49,66,0.12)" stroke-width="1"/>
+<text x="40" y="418" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" font-weight="600" letter-spacing="0.1em" fill="#7a8399">KEY</text>
+<rect x="160" y="408" width="30" height="16" rx="4" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<text x="200" y="420" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">a domain</text>
+<rect x="660" y="408" width="30" height="16" rx="4" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<text x="700" y="420" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">has a CRITICAL control (needed for Essential)</text>
+</svg>

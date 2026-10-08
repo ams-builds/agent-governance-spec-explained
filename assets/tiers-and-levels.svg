@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Which rules apply to your agent</title>
+<desc id="desc">Four tiers decide how many controls apply: BASIC 29, TOOL-USING 57, AGENTIC 69, MULTI-AGENT 72. Three conformance levels say how many must pass: Essential, Standard and Hardened. Standard is the level for production agents that handle user data or do consequential actions.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#2d3142"/>
+  </marker>
+  <marker id="arrowMuted" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#7a8399"/>
+  </marker>
+</defs>
+<rect x="0" y="0" width="1200" height="470" fill="#f5f5f5"/>
+<text x="40" y="44" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="28" fill="#2d3142">Which rules apply to your agent</text>
+<text x="40" y="64" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="9" letter-spacing="0.06em" fill="#7a8399">TIER SETS THE CONTROLS, LEVEL SETS THE BAR</text>
+<text x="40" y="104" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" letter-spacing="0.06em" fill="#4f5d75">1. FIND THE TIER OF YOUR AGENT</text>
+<rect x="40" y="120" width="232" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="48" y="128" width="36" height="16" rx="4" fill="#ececec"/>
+<text x="66.0" y="140" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">TIER</text>
+<text x="156.0" y="148.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">BASIC</text>
+<text x="156.0" y="162.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">chat only, no tools</text>
+<text x="156.0" y="174.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">29 controls</text>
+<rect x="336" y="120" width="232" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="344" y="128" width="36" height="16" rx="4" fill="#ececec"/>
+<text x="362.0" y="140" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">TIER</text>
+<text x="452.0" y="148.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">TOOL-USING</text>
+<text x="452.0" y="162.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">calls tools or APIs</text>
+<text x="452.0" y="174.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">57 controls</text>
+<rect x="632" y="120" width="232" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="640" y="128" width="36" height="16" rx="4" fill="#ececec"/>
+<text x="658.0" y="140" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">TIER</text>
+<text x="748.0" y="148.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">AGENTIC</text>
+<text x="748.0" y="162.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">multi-step, changes files</text>
+<text x="748.0" y="174.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">69 controls</text>
+<rect x="928" y="120" width="232" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="936" y="128" width="36" height="16" rx="4" fill="#ececec"/>
+<text x="954.0" y="140" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">TIER</text>
+<text x="1044.0" y="148.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">MULTI-AGENT</text>
+<text x="1044.0" y="162.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">gives work to agents</text>
+<text x="1044.0" y="174.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">72 controls</text>
+<line x1="276" y1="158" x2="330" y2="158" stroke="#2d3142" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="572" y1="158" x2="626" y2="158" stroke="#2d3142" stroke-width="1" marker-end="url(#arrow)"/>
+<line x1="868" y1="158" x2="922" y2="158" stroke="#2d3142" stroke-width="1" marker-end="url(#arrow)"/>
+<text x="40" y="244" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" letter-spacing="0.06em" fill="#4f5d75">2. PICK THE LEVEL TO REACH</text>
+<rect x="40" y="260" width="352" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="48" y="268" width="42" height="16" rx="4" fill="#ececec"/>
+<text x="69.0" y="280" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LEVEL</text>
+<text x="216.0" y="294.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Essential</text>
+<text x="216.0" y="308.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">all CRITICAL controls pass</text>
+<rect x="424" y="260" width="352" height="76" rx="6" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<rect x="432" y="268" width="42" height="16" rx="4" fill="#ececec"/>
+<text x="453.0" y="280" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LEVEL</text>
+<text x="600.0" y="288.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Standard</text>
+<text x="600.0" y="302.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">all CRITICAL and HIGH pass</text>
+<text x="600.0" y="314.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">score 60 or more</text>
+<rect x="808" y="260" width="352" height="76" rx="6" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<rect x="816" y="268" width="42" height="16" rx="4" fill="#ececec"/>
+<text x="837.0" y="280" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="8" font-weight="600" fill="#2d3142">LEVEL</text>
+<text x="984.0" y="288.9" text-anchor="middle" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" fill="#2d3142">Hardened</text>
+<text x="984.0" y="302.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">all controls pass</text>
+<text x="984.0" y="314.9" text-anchor="middle" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8.5" fill="#4f5d75">score 75 or more</text>
+<line x1="40" y1="390" x2="1160" y2="390" stroke="rgba(45,49,66,0.12)" stroke-width="1"/>
+<text x="40" y="418" font-family="'Geist Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="8" font-weight="600" letter-spacing="0.1em" fill="#7a8399">KEY</text>
+<rect x="160" y="408" width="30" height="16" rx="4" fill="#ffffff" stroke="#2d3142" stroke-width="1"/>
+<text x="200" y="420" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">a tier or a level</text>
+<rect x="660" y="408" width="30" height="16" rx="4" fill="rgba(235,108,54,0.08)" stroke="#eb6c36" stroke-width="1.2"/>
+<text x="700" y="420" font-family="Geist, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#2d3142">the level for production agents with user data</text>
+</svg>
