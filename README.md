@@ -111,4 +111,4 @@ Changes from the source:
 
 ---
 
-*New words? The [Jargon Buster](JARGON.md) gives plain-English explanations of governance file, control, domain, tier, conformance level, safety immutable, and more.*
+*New words? The [Jargon Buster](JARGON.md) gives simple explanations of governance file, control, domain, tier, conformance level, safety immutable, and more.*
