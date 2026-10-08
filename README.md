@@ -2,11 +2,11 @@
 
 ## What is it?
 
-This repository is a plain-language guide and an agent skill. Both are based on OASB-2, the Agent Behavioral Governance Specification by [OpenA2A](https://github.com/opena2a-standards). OASB-2 tells you how to write the rules of your agent in one file, `SOUL.md`. It also tells you how to measure if the file covers the important behaviors.
+This repository is a simple guide and a ready-made skill for your AI agent. Both are based on OASB-2, the Agent Behavioral Governance Specification by [OpenA2A](https://github.com/opena2a-standards). OASB-2 tells you how to write the rules of your agent in one file, `SOUL.md`. It also tells you how to measure if the file covers the important behaviors.
 
 ![You write the rules of your agent in one governance file, SOUL.md. A scan finds each rule and gives a score and a conformance level. The scan checks the file. It does not check the agent.](assets/rules-file.svg)
 
-*Do you want the technical words in plain English? Refer to the [Jargon Buster](JARGON.md).*
+*Do you want simple meanings for the technical words? Refer to the [Jargon Buster](JARGON.md).*
 
 ## What problem does it solve?
 
@@ -98,7 +98,7 @@ The skill starts automatically. You do not need to use its name.
 
 This guide is based on [OASB-2: Agent Behavioral Governance Specification](https://github.com/opena2a-standards/agent-governance-spec) by [OpenA2A](https://github.com/opena2a-standards) ([opena2a.org](https://opena2a.org)). This guide explains the source at commit `8c279f0` (7 October 2026), specification version 1.0. That project uses the Apache License 2.0. This repository uses the same license. Refer to [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-This is an independent plain-language guide. It is not an official part of the source project. For the full rules, use the source specification.
+This is an independent guide. It is not an official part of the source project. For the full rules, use the source specification.
 
 Changes from the source:
 
